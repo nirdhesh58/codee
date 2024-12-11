@@ -4,5 +4,5 @@
  */
 int main(void)
 {
-    return 0;mamamamamamamama
+    return 0;mama[[[[[[[[[[[[[[[[
 }
